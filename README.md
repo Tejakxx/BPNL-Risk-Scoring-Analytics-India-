@@ -19,19 +19,9 @@ Power BI – Interactive dashboards with DAX measures and business KPIs.
 
 Project Workflow
 
-Dataset Collection
-⬇️
-SQL Analysis
-⬇️
-Python Exploratory Data Analysis (EDA)
-⬇️
-Statistical Analysis
-⬇️
-Machine Learning
-⬇️
-Power BI Dashboard Development
-⬇️
-Business Insights & Recommendations
+📂 Dataset Cleaning ➜🗄️SQL Analysis ➜📊 Statistical Analysis ➜🐍Python EDA ➜🤖 Machine Learning ➜📈 Power BI Dashboarding ➜💡 Business Insights.
+<img width="4402" height="132" alt="image" src="https://github.com/user-attachments/assets/ec485076-8205-40f2-9d09-f0c89f49cb55" />
+
 
 Key Features
 Customer Demographics Analysis
