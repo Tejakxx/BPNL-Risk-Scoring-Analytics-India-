@@ -51,4 +51,4 @@ Customer Behavior Analysis
 Key Insights & Recommendations
 Business Value
 
-This project demonstrates how data analytics can support credit risk assessment, customer segmentation, lending strategy optimization, competitor benchmarking, and business decision-making within the rapidly growing Indian BNPL market
+This project demonstrates how data analytics can support credit risk assessment, customer segmentation, lending strategy optimization, competitor benchmarking, and business decision-making within the rapidly growing Indian BNPL market.
